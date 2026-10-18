@@ -1,3 +1,13 @@
+.cache/
+.config/
+.copilot/
+.dotnet/
+.landscape/
+.bash_history
+.bash_logout
+.bashrc
+.motd_shown
+.profile
+main
 .vscode-server/
 .ssh/
-.gitconfig
